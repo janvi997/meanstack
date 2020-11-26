@@ -1,0 +1,21 @@
+body{
+    background-color: gainsboro;
+}
+.card{
+    margin-left: 40%;
+    margin-top: 10%;
+    height: 200px;
+    border: white;
+    background: gainsboro;
+}
+
+img{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+h3{
+    margin-left:15%;
+}
+#te{
+    margin-left:20%;
+}

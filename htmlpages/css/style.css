@@ -1,0 +1,42 @@
+
+    body{
+        background-image: url("download.jpg");
+        background-repeat: no-repeat;
+        background-size:100% 100%;
+    }
+    div{
+        margin:auto;
+    }
+    div label{
+        margin-left:180px;
+    }
+    div li{
+        margin-left:180px;
+    }
+h1{
+    color:red;
+}
+#one{
+    color:rgb(191,29,175);
+}
+div{
+    border-style: dotted;
+    border-color: azure;
+    border-width: 2px;
+    background-color: chartreuse;
+    width: 50%;
+}
+#mi{
+    border-style: dotted;
+    border-color:mediumturquoise;
+    border-width: 2px;
+    background-color: rgb(191,29,175);
+    width: 50%;
+}
+.team{
+    border-style: dotted;
+    border-color: lavender;
+    border-width: 2px;
+    background-color: greenyellow;
+    width: 50%;
+}

@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+table{
+    margin:auto;
+}
+td{
+    height:500px;
+    padding: 100px;
+    border:5px solid white ;
+}
+#one{
+background-color:#247BAD;
+}
+#two{
+    background-color:#7BC183;
+    }
+    #three{
+        background-color:#B2DBBF;
+        }
+        #four{
+            background-color:#F3FFBD;
+            }
+            #five{
+                background-color:#FF1654;
+                }

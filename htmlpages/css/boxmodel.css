@@ -1,0 +1,33 @@
+
+div{
+    margin: auto;
+}
+    #top{
+    border-color: hotpink;
+    border-width: 6px;
+    width:50%;
+    border-style: solid;
+    margin-left: 250px;
+    margin-top: 20 px;
+    padding-left: 300px;
+    background-color: cyan;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+#bottom
+{
+    text-align: center;
+    border-color:brown;
+    border-width: 6px;
+    width:50%;
+    border-style: solid; 
+    margin-left: 250px;
+    margin-top: 440 px;
+    padding-left: 300px;
+    background-color:grey;  
+    font-family: 'Lobster', cursive;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
